@@ -24,6 +24,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
 
     // Parodyti sarasa
-    include '../../src/Views/all.php';
+    header('Location: ../../all');
     exit();
 }

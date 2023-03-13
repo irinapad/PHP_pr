@@ -29,3 +29,4 @@ foreach ($mokiniai as $mokinys) {
 }
 echo "</tbody>";
 echo "</table>";
+echo "<a href='create'>prideti</a> ";
