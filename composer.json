@@ -1,0 +1,17 @@
+{
+  "name": "irina/mokiniai",
+  "autoload": {
+    "psr-4": {
+      "Mok\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "me"
+
+    }
+  ],
+  "require": {
+    "ext-mysqli": "*"
+  }
+}
